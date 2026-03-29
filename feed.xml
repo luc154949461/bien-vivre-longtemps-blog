@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bien Vivre Longtemps</title>
+  <link href="https://bien-vivre-longtemps.com/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://bien-vivre-longtemps.com/" rel="alternate" type="text/html"/>
+  <id>https://bien-vivre-longtemps.com/</id>
+  <updated>2020-07-13</updated>
+  <author>
+    <name>Bien Vivre Longtemps</name>
+  </author>
+  <subtitle>Le guide pratique pour vivre plus longtemps en meilleure sante : nutrition, sport, science, routines et sagesse du monde entier</subtitle>
+  <entry>
+    <title>Omega-3, vitamine D, magnesium : les 3 incontournables selon la science</title>
+    <link href="https://bien-vivre-longtemps.com/complements/omega-3-vitamine-d-magnesium-les-3-incontournables-selon-la-science/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/complements/omega-3-vitamine-d-magnesium-les-3-incontournables-selon-la-science/</id>
+    <published>2020-07-13</published>
+    <updated>2020-07-13</updated>
+    <summary>Omega-3, vitamine D et magnesium sont les trois supplements les plus soutenus par la science. Dosages optimaux, meilleures formes (bisglycinate, D3, EPA/DHA), etudes de reference (Framingham, VITAL), marques françaises fiables et budget mensuel : tout ce qu'il faut savoir pour supplementer intelligemment.</summary>
+  </entry>
+  <entry>
+    <title>Le sommeil : 7 strategies appuyees par la science pour mieux dormir</title>
+    <link href="https://bien-vivre-longtemps.com/routines/le-sommeil-7-strategies-appuyees-par-la-science-pour-mieux-dormir/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/routines/le-sommeil-7-strategies-appuyees-par-la-science-pour-mieux-dormir/</id>
+    <published>2020-07-10</published>
+    <updated>2020-07-10</updated>
+    <summary>De la temperature de la chambre a la cafeine, de la lumiere bleue a l'alcool : 7 strategies concretes pour ameliorer ton sommeil, chacune appuyee par des etudes publiees. Avec en prime la courbe en U entre duree de sommeil et mortalite.</summary>
+  </entry>
+  <entry>
+    <title>L'exposition au froid : Wim Hof, douches froides et la science de l'hormese</title>
+    <link href="https://bien-vivre-longtemps.com/routines/l-exposition-au-froid-wim-hof-douches-froides-et-la-science-de-l-hormese/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/routines/l-exposition-au-froid-wim-hof-douches-froides-et-la-science-de-l-hormese/</id>
+    <published>2020-07-08</published>
+    <updated>2020-07-08</updated>
+    <summary>Douches froides, methode Wim Hof, etude de Radboud : la science de l'exposition au froid et de l'hormese decryptee. Noradrenaline, dopamine, tissu adipeux brun — ce qui se passe dans ton corps et comment commencer.</summary>
+  </entry>
+  <entry>
+    <title>La routine du matin : les 60 premieres minutes qui changent tout</title>
+    <link href="https://bien-vivre-longtemps.com/routines/la-routine-du-matin-les-60-premieres-minutes-qui-changent-tout/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/routines/la-routine-du-matin-les-60-premieres-minutes-qui-changent-tout/</id>
+    <published>2020-07-07</published>
+    <updated>2020-07-07</updated>
+    <summary>Les 60 premieres minutes apres le reveil sont biologiquement decisives : reponse cortisolique, lumiere naturelle, hydratation, mouvement doux. Decouvre un cadre de routine matinale souple, adapte par trente ans de pratique du yoga et de la vie.</summary>
+  </entry>
+  <entry>
+    <title>Okinawa (Japon) : le regime des centenaires et le secret du hara hachi bu</title>
+    <link href="https://bien-vivre-longtemps.com/zones-bleues/okinawa-japon-le-regime-des-centenaires-et-le-secret-du-hara-hachi-bu/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/zones-bleues/okinawa-japon-le-regime-des-centenaires-et-le-secret-du-hara-hachi-bu/</id>
+    <published>2020-07-06</published>
+    <updated>2020-07-06</updated>
+    <summary>Okinawa abrite cinq fois plus de centenaires que la moyenne mondiale. Leur secret ? Hara hachi bu (manger a 80 %), un regime fonde sur la patate douce et le tofu, un sens de la vie (ikigai) et des liens sociaux indestructibles (moai). Plongee dans la zone bleue japonaise.</summary>
+  </entry>
+  <entry>
+    <title>Ikaria (Grece) : l'ile ou l'on oublie de mourir</title>
+    <link href="https://bien-vivre-longtemps.com/zones-bleues/ikaria-grece-l-ile-ou-l-on-oublie-de-mourir/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/zones-bleues/ikaria-grece-l-ile-ou-l-on-oublie-de-mourir/</id>
+    <published>2020-07-04</published>
+    <updated>2020-07-04</updated>
+    <summary>En 1976, Stamatis Moraitis rentre a Ikaria pour y mourir d'un cancer terminal. Il vivra 37 ans de plus, sans traitement. Decouvre les secrets de cette ile grecque ou l'on oublie de mourir : tisanes sauvages, sieste, lien social et art de ralentir.</summary>
+  </entry>
+  <entry>
+    <title>Telomeres : les lacets de nos chromosomes qui comptent notre age</title>
+    <link href="https://bien-vivre-longtemps.com/science/telomeres-les-lacets-de-nos-chromosomes-qui-comptent-notre-age/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/science/telomeres-les-lacets-de-nos-chromosomes-qui-comptent-notre-age/</id>
+    <published>2020-07-03</published>
+    <updated>2020-07-03</updated>
+    <summary>Les telomeres, ces capuchons protecteurs au bout de nos chromosomes, raccourcissent a chaque division cellulaire. Du Nobel de Blackburn aux etudes d'Epel sur le stress, decouvre ce que la science sait vraiment sur ces marqueurs du vieillissement — et ce qu'on peut faire pour les preserver.</summary>
+  </entry>
+  <entry>
+    <title>Ete 2020 : hydratation, protection solaire et alimentation de saison</title>
+    <link href="https://bien-vivre-longtemps.com/saisonnier/ete-2020-hydratation-protection-solaire-et-alimentation-de-saison/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/saisonnier/ete-2020-hydratation-protection-solaire-et-alimentation-de-saison/</id>
+    <published>2020-07-01</published>
+    <updated>2020-07-01</updated>
+    <summary>Boire 2 litres d'eau par jour, ca ne suffit pas forcement — et parfois c'est trop. Hydratation reelle, electrolytes, aliments de saison, creme solaire et vitamine D : toute la science de l'ete, testee sur le terrain.</summary>
+  </entry>
+</feed>
