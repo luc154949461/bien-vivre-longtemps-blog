@@ -4,11 +4,27 @@
   <link href="https://bien-vivre-longtemps.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://bien-vivre-longtemps.com/" rel="alternate" type="text/html"/>
   <id>https://bien-vivre-longtemps.com/</id>
-  <updated>2021-07-01</updated>
+  <updated>2021-10-04</updated>
   <author>
     <name>Bien Vivre Longtemps</name>
   </author>
   <subtitle>Le guide pratique pour vivre plus longtemps en meilleure sante : nutrition, sport, science, routines et sagesse du monde entier</subtitle>
+  <entry>
+    <title>Automne 2021 : préparer son immunité avant l'hiver</title>
+    <link href="https://bien-vivre-longtemps.com/saisonnier/automne-2021-preparer-son-immunite-avant-l-hiver/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/saisonnier/automne-2021-preparer-son-immunite-avant-l-hiver/</id>
+    <published>2021-10-04</published>
+    <updated>2021-10-04</updated>
+    <summary>Oublie les « boosters d'immunité » sans preuves. Ce qui protège vraiment avant l'hiver : vitamine D (1 000-4 000 UI/jour), zinc ciblé, 7-9 h de sommeil (dormir &lt; 6 h = 4x plus de risque de rhume), exercice modéré, et un microbiote intestinal diversifié. Les 5 piliers validés par la science.</summary>
+  </entry>
+  <entry>
+    <title>Rentrée 2021 : bilan de santé annuel et bonnes habitudes</title>
+    <link href="https://bien-vivre-longtemps.com/saisonnier/rentree-2021-bilan-de-sante-annuel-et-bonnes-habitudes/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/saisonnier/rentree-2021-bilan-de-sante-annuel-et-bonnes-habitudes/</id>
+    <published>2021-09-06</published>
+    <updated>2021-09-06</updated>
+    <summary>La rentrée est le moment idéal pour un bilan de santé complet. NFS, bilan lipidique, HbA1c, vitamine D, TSH : cinq analyses essentielles pour photographier ta santé intérieure. Quand les faire, comment les lire, et comment reprendre de bonnes habitudes après l'été.</summary>
+  </entry>
   <entry>
     <title>Été 2021 : soleil, chaleur et UV — le guide complet pour profiter de l'été en santé</title>
     <link href="https://bien-vivre-longtemps.com/saisonnier/ete-2021-soleil-chaleur-et-uv-le-guide-complet-pour-profiter-de-l-ete-en-sante/" rel="alternate" type="text/html"/>
@@ -24,6 +40,14 @@
     <published>2021-03-21</published>
     <updated>2021-03-21</updated>
     <summary>L'industrie de la détox pèse des milliards, mais la science est claire : aucune cure commerciale n'a prouvé son efficacité. Ton foie et tes reins assurent déjà la détoxification 24h/24. Ce qui aide vraiment : fibres, crucifères, hydratation, sommeil et exercice.</summary>
+  </entry>
+  <entry>
+    <title>Musculation après 50 ans : sarcopénie et comment la combattre</title>
+    <link href="https://bien-vivre-longtemps.com/sport/musculation-apres-50-ans-sarcopenie-et-comment-la-combattre/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/sport/musculation-apres-50-ans-sarcopenie-et-comment-la-combattre/</id>
+    <published>2021-02-01</published>
+    <updated>2021-02-01</updated>
+    <summary>La sarcopénie fait perdre 3 à 8 % de masse musculaire par décennie après 30 ans. Mais même à 90 ans, la musculation inverse le processus. Surcharge progressive, 1,2-1,6 g de protéines/kg/jour, seuil de leucine à 2,5-3 g par repas : le protocole complet anti-sarcopénie.</summary>
   </entry>
   <entry>
     <title>La marche : le sport le plus sous-estimé — 10 000 pas, mythe ou réalité ?</title>
@@ -144,29 +168,5 @@
     <published>2020-08-03</published>
     <updated>2020-08-03</updated>
     <summary>A Loma Linda, les Adventistes du 7e jour vivent 10 ans de plus que la moyenne americaine. Vegetarisme, sabbat, communaute et abstinence : plongee dans 60 ans de donnees des Adventist Health Studies et les lecons de cette zone bleue unique.</summary>
-  </entry>
-  <entry>
-    <title>Le panier du debutant : liste de courses santé avec budget</title>
-    <link href="https://bien-vivre-longtemps.com/complements/le-panier-du-debutant-liste-de-courses-sante-avec-budget/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/complements/le-panier-du-debutant-liste-de-courses-sante-avec-budget/</id>
-    <published>2020-07-27</published>
-    <updated>2020-07-27</updated>
-    <summary>Manger sain sans se ruiner, c'est possible. Voici une liste de courses concrete avec fruits, legumes, legumineuses, cereales completes et 3 complements essentiels, pour un budget de 80 a 120 euros par mois en France.</summary>
-  </entry>
-  <entry>
-    <title>Nicoya (Costa Rica) : le plan de vida et l'eau qui fait vivre cent ans</title>
-    <link href="https://bien-vivre-longtemps.com/zones-bleues/nicoya-costa-rica-le-plan-de-vida-et-l-eau-qui-fait-vivre-cent-ans/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/zones-bleues/nicoya-costa-rica-le-plan-de-vida-et-l-eau-qui-fait-vivre-cent-ans/</id>
-    <published>2020-07-25</published>
-    <updated>2020-07-25</updated>
-    <summary>A Nicoya, au Costa Rica, les centenaires ont un secret qui ne s'achete pas : un plan de vida, une eau riche en calcium, une alimentation ancestrale, et des liens familiaux indestructibles. Voyage dans l'une des zones bleues les plus fascinantes du monde.</summary>
-  </entry>
-  <entry>
-    <title>La meditation et le stress : ce que dit la recherche sur la longévité</title>
-    <link href="https://bien-vivre-longtemps.com/routines/la-meditation-et-le-stress-ce-que-dit-la-recherche-sur-la-longevite/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/routines/la-meditation-et-le-stress-ce-que-dit-la-recherche-sur-la-longevite/</id>
-    <published>2020-07-22</published>
-    <updated>2020-07-22</updated>
-    <summary>De la MBSR de Jon Kabat-Zinn aux etudes sur les telomeres, la science confirme ce que les meditants savent depuis longtemps : la meditation reduit le stress, protege les cellules et pourrait ralentir le vieillissement. Guide pour commencer avec 10 minutes par jour.</summary>
   </entry>
 </feed>
