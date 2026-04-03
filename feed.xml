@@ -4,11 +4,43 @@
   <link href="https://bien-vivre-longtemps.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://bien-vivre-longtemps.com/" rel="alternate" type="text/html"/>
   <id>https://bien-vivre-longtemps.com/</id>
-  <updated>2020-12-28</updated>
+  <updated>2021-07-01</updated>
   <author>
     <name>Bien Vivre Longtemps</name>
   </author>
   <subtitle>Le guide pratique pour vivre plus longtemps en meilleure sante : nutrition, sport, science, routines et sagesse du monde entier</subtitle>
+  <entry>
+    <title>Été 2021 : soleil, chaleur et UV — le guide complet pour profiter de l'été en santé</title>
+    <link href="https://bien-vivre-longtemps.com/saisonnier/ete-2021-soleil-chaleur-et-uv-le-guide-complet-pour-profiter-de-l-ete-en-sante/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/saisonnier/ete-2021-soleil-chaleur-et-uv-le-guide-complet-pour-profiter-de-l-ete-en-sante/</id>
+    <published>2021-07-01</published>
+    <updated>2021-07-01</updated>
+    <summary>UV, vitamine D, hydratation, acclimatation thermique : la science de l'été en santé. 10 minutes de soleil pour la vitamine D, SPF large spectre ensuite, électrolytes à l'effort, et 10-14 jours pour s'acclimater à la chaleur. Le guide complet pour un été sans dégâts.</summary>
+  </entry>
+  <entry>
+    <title>Printemps 2021 : détox, ce que dit vraiment la science — faut-il faire une cure ?</title>
+    <link href="https://bien-vivre-longtemps.com/saisonnier/printemps-2021-detox-ce-que-dit-vraiment-la-science-faut-il-faire-une-cure/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/saisonnier/printemps-2021-detox-ce-que-dit-vraiment-la-science-faut-il-faire-une-cure/</id>
+    <published>2021-03-21</published>
+    <updated>2021-03-21</updated>
+    <summary>L'industrie de la détox pèse des milliards, mais la science est claire : aucune cure commerciale n'a prouvé son efficacité. Ton foie et tes reins assurent déjà la détoxification 24h/24. Ce qui aide vraiment : fibres, crucifères, hydratation, sommeil et exercice.</summary>
+  </entry>
+  <entry>
+    <title>La marche : le sport le plus sous-estimé — 10 000 pas, mythe ou réalité ?</title>
+    <link href="https://bien-vivre-longtemps.com/sport/la-marche-le-sport-le-plus-sous-estime-10-000-pas-mythe-ou-realite/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/sport/la-marche-le-sport-le-plus-sous-estime-10-000-pas-mythe-ou-realite/</id>
+    <published>2021-01-18</published>
+    <updated>2021-01-18</updated>
+    <summary>Les 10 000 pas sont un mythe marketing né en 1965 au Japon. La méta-analyse Banach (2023) sur 226 889 personnes montre que les bénéfices commencent dès 3 967 pas/jour. À dépense égale, la marche fait aussi bien que la course pour la longévité — sans les blessures.</summary>
+  </entry>
+  <entry>
+    <title>Nouvel An 2021 : résolutions santé réalistes — comment formuler des objectifs qui tiennent</title>
+    <link href="https://bien-vivre-longtemps.com/saisonnier/nouvel-an-2021-resolutions-sante-realistes-comment-formuler-des-objectifs-qui-tiennent/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/saisonnier/nouvel-an-2021-resolutions-sante-realistes-comment-formuler-des-objectifs-qui-tiennent/</id>
+    <published>2021-01-04</published>
+    <updated>2021-01-04</updated>
+    <summary>80 % des résolutions de Nouvel An sont abandonnées avant le 19 janvier. La psychologie comportementale explique pourquoi — et offre des solutions concrètes : objectifs SMART, intentions d'implémentation de Gollwitzer (si... alors), micro-habitudes et design environnemental.</summary>
+  </entry>
   <entry>
     <title>Bilan 2020 : ce que la science nous a appris sur la longévité cette année</title>
     <link href="https://bien-vivre-longtemps.com/saisonnier/bilan-2020-ce-que-la-science-nous-a-appris-sur-la-longevite-cette-annee/" rel="alternate" type="text/html"/>
@@ -136,37 +168,5 @@
     <published>2020-07-22</published>
     <updated>2020-07-22</updated>
     <summary>De la MBSR de Jon Kabat-Zinn aux etudes sur les telomeres, la science confirme ce que les meditants savent depuis longtemps : la meditation reduit le stress, protege les cellules et pourrait ralentir le vieillissement. Guide pour commencer avec 10 minutes par jour.</summary>
-  </entry>
-  <entry>
-    <title>Sardaigne (Italie) : les bergers de la montagne qui vivent cent ans</title>
-    <link href="https://bien-vivre-longtemps.com/zones-bleues/sardaigne-italie-les-bergers-de-la-montagne-qui-vivent-cent-ans/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/zones-bleues/sardaigne-italie-les-bergers-de-la-montagne-qui-vivent-cent-ans/</id>
-    <published>2020-07-20</published>
-    <updated>2020-07-20</updated>
-    <summary>Dans les montagnes de l'Ogliastra, les bergers sardes vivent jusqu'a cent ans — hommes comme femmes. Le Cannonau, le pecorino, la marche quotidienne et les liens familiaux : plongee dans les secrets de la zone bleue de Sardaigne.</summary>
-  </entry>
-  <entry>
-    <title>Sirtuines et NAD+ : les proteines de la jeunesse decryptees</title>
-    <link href="https://bien-vivre-longtemps.com/science/sirtuines-et-nad-les-proteines-de-la-jeunesse-decryptees/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/science/sirtuines-et-nad-les-proteines-de-la-jeunesse-decryptees/</id>
-    <published>2020-07-17</published>
-    <updated>2020-07-17</updated>
-    <summary>Sirtuines, NAD+, NMN, resveratrol : la science derriere les promesses anti-age decryptee sans complaisance. Ce que les etudes montrent vraiment, ce qui reste a prouver, et pourquoi la prudence s'impose avant de se ruer sur les supplements.</summary>
-  </entry>
-  <entry>
-    <title>Le jeune intermittent : guide pratique et ce que disent vraiment les etudes</title>
-    <link href="https://bien-vivre-longtemps.com/routines/le-jeune-intermittent-guide-pratique-et-ce-que-disent-vraiment-les-etudes/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/routines/le-jeune-intermittent-guide-pratique-et-ce-que-disent-vraiment-les-etudes/</id>
-    <published>2020-07-15</published>
-    <updated>2020-07-15</updated>
-    <summary>16:8, 5:2, OMAD : les protocoles de jeune intermittent decryptes avec les vraies donnees scientifiques, de la revue du NEJM a l'essai CALERIE. Qui peut en beneficier, qui devrait s'abstenir, et comment demarrer progressivement.</summary>
-  </entry>
-  <entry>
-    <title>Omega-3, vitamine D, magnesium : les 3 incontournables selon la science</title>
-    <link href="https://bien-vivre-longtemps.com/complements/omega-3-vitamine-d-magnesium-les-3-incontournables-selon-la-science/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/complements/omega-3-vitamine-d-magnesium-les-3-incontournables-selon-la-science/</id>
-    <published>2020-07-13</published>
-    <updated>2020-07-13</updated>
-    <summary>Omega-3, vitamine D et magnesium sont les trois supplements les plus soutenus par la science. Dosages optimaux, meilleures formes (bisglycinate, D3, EPA/DHA), etudes de reference (Framingham, VITAL), marques françaises fiables et budget mensuel : tout ce qu'il faut savoir pour supplementer intelligemment.</summary>
   </entry>
 </feed>
