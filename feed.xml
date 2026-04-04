@@ -4,11 +4,35 @@
   <link href="https://bien-vivre-longtemps.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://bien-vivre-longtemps.com/" rel="alternate" type="text/html"/>
   <id>https://bien-vivre-longtemps.com/</id>
-  <updated>2021-10-04</updated>
+  <updated>2021-10-18</updated>
   <author>
     <name>Bien Vivre Longtemps</name>
   </author>
   <subtitle>Le guide pratique pour vivre plus longtemps en meilleure sante : nutrition, sport, science, routines et sagesse du monde entier</subtitle>
+  <entry>
+    <title>Natation : le sport complet à tout âge</title>
+    <link href="https://bien-vivre-longtemps.com/sport/natation-le-sport-complet-a-tout-age/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/sport/natation-le-sport-complet-a-tout-age/</id>
+    <published>2021-10-18</published>
+    <updated>2021-10-18</updated>
+    <summary>Les nageurs ont un risque de mortalité 53 % inférieur aux sédentaires et 49 % inférieur aux coureurs. Zéro impact articulaire, −9 mmHg de pression systolique, efficace contre l'arthrose. Crawl, brasse, dos, papillon : chaque nage a ses vertus. 3 séances de 30-45 min/semaine, à tout âge.</summary>
+  </entry>
+  <entry>
+    <title>Yoga et longévité : ce que disent les études sur la pratique régulière</title>
+    <link href="https://bien-vivre-longtemps.com/sport/yoga-et-longevite-ce-que-disent-les-etudes-sur-la-pratique-reguliere/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/sport/yoga-et-longevite-ce-que-disent-les-etudes-sur-la-pratique-reguliere/</id>
+    <published>2021-10-14</published>
+    <updated>2021-10-14</updated>
+    <summary>12 semaines de yoga augmentent significativement l'activité de la télomérase et réduisent le cortisol, l'IL-6 et les dommages à l'ADN. Le yoga est aussi l'exercice le plus efficace pour réduire le cortisol (SMD −0,59). Chez les 65+, il réduit les chutes de 48 %. Hatha, Vinyasa ou Yin : quel style choisir pour la longévité.</summary>
+  </entry>
+  <entry>
+    <title>Noël 2021 : manger sans culpabiliser et offrir la santé</title>
+    <link href="https://bien-vivre-longtemps.com/saisonnier/noel-2021-manger-sans-culpabiliser-et-offrir-la-sante/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/saisonnier/noel-2021-manger-sans-culpabiliser-et-offrir-la-sante/</id>
+    <published>2021-10-11</published>
+    <updated>2021-10-11</updated>
+    <summary>La prise de poids moyenne des fêtes est de 0,37 kg, pas 5 kg. Le vrai danger n'est pas les calories du réveillon mais la culpabilité qui en découle. Alimentation consciente, recettes festives nutritives (gravlax, légumes rôtis, poires pochées) et idées de cadeaux santé : profiter de Noël intelligemment.</summary>
+  </entry>
   <entry>
     <title>Automne 2021 : préparer son immunité avant l'hiver</title>
     <link href="https://bien-vivre-longtemps.com/saisonnier/automne-2021-preparer-son-immunite-avant-l-hiver/" rel="alternate" type="text/html"/>
@@ -144,29 +168,5 @@
     <published>2020-08-24</published>
     <updated>2020-08-24</updated>
     <summary>Resveratrol, curcumine, quercetine : trois molecules stars de la longévité. Mais entre les promesses marketing et les preuves cliniques reelles, l'ecart est immense. Biodisponibilite desastreuse, formulations cruciales, dosages precis — voici ce que la science dit vraiment.</summary>
-  </entry>
-  <entry>
-    <title>Bouger sans s'epuiser : l'exercice optimal pour vivre plus longtemps (Zone 2)</title>
-    <link href="https://bien-vivre-longtemps.com/routines/bouger-sans-s-epuiser-l-exercice-optimal-pour-vivre-plus-longtemps-zone-2/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/routines/bouger-sans-s-epuiser-l-exercice-optimal-pour-vivre-plus-longtemps-zone-2/</id>
-    <published>2020-08-17</published>
-    <updated>2020-08-17</updated>
-    <summary>L'entrainement en Zone 2 — un effort modere ou tu peux encore parler — est le pilier numero un de l'exercice longévité selon Peter Attia. 150 a 180 minutes par semaine suffisent a stimuler la biogenese mitochondriale et ameliorer ta santé metabolique pour des decennies.</summary>
-  </entry>
-  <entry>
-    <title>Synthese : les 9 denominateurs communs des Zones Bleues (le Power 9 de Dan Buettner)</title>
-    <link href="https://bien-vivre-longtemps.com/zones-bleues/synthese-les-9-denominateurs-communs-des-zones-bleues-le-power-9-de-dan-buettner/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/zones-bleues/synthese-les-9-denominateurs-communs-des-zones-bleues-le-power-9-de-dan-buettner/</id>
-    <published>2020-08-10</published>
-    <updated>2020-08-10</updated>
-    <summary>Bouger naturellement, avoir un but, decelerer, manger a 80 %, privilegier les plantes, boire moderement, appartenir, aimer ses proches, choisir sa tribu : synthese des 9 principes de longévité identifies par Dan Buettner dans les Zones Bleues.</summary>
-  </entry>
-  <entry>
-    <title>Loma Linda (Californie) : les Adventistes du 7e jour, communaute de la longévité</title>
-    <link href="https://bien-vivre-longtemps.com/zones-bleues/loma-linda-californie-les-adventistes-du-7e-jour-communaute-de-la-longevite/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/zones-bleues/loma-linda-californie-les-adventistes-du-7e-jour-communaute-de-la-longevite/</id>
-    <published>2020-08-03</published>
-    <updated>2020-08-03</updated>
-    <summary>A Loma Linda, les Adventistes du 7e jour vivent 10 ans de plus que la moyenne americaine. Vegetarisme, sabbat, communaute et abstinence : plongee dans 60 ans de donnees des Adventist Health Studies et les lecons de cette zone bleue unique.</summary>
   </entry>
 </feed>
