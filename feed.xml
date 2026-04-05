@@ -4,11 +4,43 @@
   <link href="https://bien-vivre-longtemps.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://bien-vivre-longtemps.com/" rel="alternate" type="text/html"/>
   <id>https://bien-vivre-longtemps.com/</id>
-  <updated>2021-11-04</updated>
+  <updated>2021-11-18</updated>
   <author>
     <name>Bien Vivre Longtemps</name>
   </author>
   <subtitle>Le guide pratique pour vivre plus longtemps en meilleure sante : nutrition, sport, science, routines et sagesse du monde entier</subtitle>
+  <entry>
+    <title>Alcool et longevite : le paradoxe francais reexamine a la lumiere des nouvelles etudes</title>
+    <link href="https://bien-vivre-longtemps.com/nutrition/alcool-et-longevite-le-paradoxe-francais-reexamine-a-la-lumiere-des-nouvelles-etudes/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/nutrition/alcool-et-longevite-le-paradoxe-francais-reexamine-a-la-lumiere-des-nouvelles-etudes/</id>
+    <published>2021-11-18</published>
+    <updated>2021-11-18</updated>
+    <summary>Le « paradoxe francais » de 1992 promettait que le vin rouge protegeait le coeur. Trente ans plus tard, une meta-analyse du Lancet portant sur 600 000 personnes affirme que le niveau le plus sur d'alcool est zero. Entre le mythe du resveratrol, le biais du « sick quitter » et la sagesse des Zones Bleues, ou se trouve la verite ? Regard lucide et sans dogmatisme sur l'alcool et la longevite.</summary>
+  </entry>
+  <entry>
+    <title>Les super-aliments : mythe marketing ou réalité scientifique ?</title>
+    <link href="https://bien-vivre-longtemps.com/nutrition/les-super-aliments-mythe-marketing-ou-realite-scientifique/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/nutrition/les-super-aliments-mythe-marketing-ou-realite-scientifique/</id>
+    <published>2021-11-15</published>
+    <updated>2021-11-15</updated>
+    <summary>Açaï, goji, spiruline, chia, kale, curcuma — j'ai tout testé pendant six mois, bilans sanguins à l'appui. Entre le retrait du score ORAC par l'USDA en 2012 et les amendes de la FTC, voici ce que la science dit vraiment sur les super-aliments.</summary>
+  </entry>
+  <entry>
+    <title>Le jeune prolonge et le FMD de Valter Longo : promesses et limites</title>
+    <link href="https://bien-vivre-longtemps.com/nutrition/le-jeune-prolonge-et-le-fmd-de-valter-longo-promesses-et-limites/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/nutrition/le-jeune-prolonge-et-le-fmd-de-valter-longo-promesses-et-limites/</id>
+    <published>2021-11-11</published>
+    <updated>2021-11-11</updated>
+    <summary>Le regime FMD de Valter Longo promet de ralentir le vieillissement grace a un jeune de 5 jours a 800 kcal. Les essais cliniques montrent des resultats encourageants sur l'IGF-1 et le profil lipidique, mais la majorite des donnees spectaculaires provient de modeles animaux. Tour d'horizon honnete.</summary>
+  </entry>
+  <entry>
+    <title>Etirements et mobilite : la cle negligee du vieillissement en bonne sante</title>
+    <link href="https://bien-vivre-longtemps.com/sport/etirements-et-mobilite-la-cle-negligee-du-vieillissement-en-bonne-sante/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/sport/etirements-et-mobilite-la-cle-negligee-du-vieillissement-en-bonne-sante/</id>
+    <published>2021-11-08</published>
+    <updated>2021-11-08</updated>
+    <summary>La souplesse decline de 30 a 50 % entre 20 et 70 ans, et la recherche montre qu'elle predit la mortalite aussi bien que la tension arterielle. Decouvre le role des fascias, la difference entre etirements statiques et dynamiques, et une routine de 10 minutes par jour pour vieillir en souplesse.</summary>
+  </entry>
   <entry>
     <title>Le regime Okinawa en pratique : une semaine dans l'assiette</title>
     <link href="https://bien-vivre-longtemps.com/nutrition/le-regime-okinawa-en-pratique-une-semaine-dans-l-assiette/" rel="alternate" type="text/html"/>
@@ -136,37 +168,5 @@
     <published>2020-10-05</published>
     <updated>2020-10-05</updated>
     <summary>Vitamine D, zinc, sommeil, exercice, microbiome : les interventions qui ont vraiment des preuves pour renforcer ton immunite avant l'hiver. Et celles qui n'en ont pas, malgre le marketing.</summary>
-  </entry>
-  <entry>
-    <title>Les horloges biologiques : comment mesurer son age reel (Horvath, GrimAge)</title>
-    <link href="https://bien-vivre-longtemps.com/science/les-horloges-biologiques-comment-mesurer-son-age-reel-horvath-grimage/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/science/les-horloges-biologiques-comment-mesurer-son-age-reel-horvath-grimage/</id>
-    <published>2020-09-28</published>
-    <updated>2020-09-28</updated>
-    <summary>Depuis l'horloge épigénétique de Steve Horvath (2013), on peut mesurer l'age biologique a partir de la methylation de l'ADN. GrimAge predit la mortalite, DunedinPACE mesure la vitesse de vieillissement — et les interventions lifestyle peuvent inverser le compteur.</summary>
-  </entry>
-  <entry>
-    <title>Autophagie : le grand menage cellulaire (et pourquoi le jeune l'active)</title>
-    <link href="https://bien-vivre-longtemps.com/science/autophagie-le-grand-menage-cellulaire-et-pourquoi-le-jeune-l-active/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/science/autophagie-le-grand-menage-cellulaire-et-pourquoi-le-jeune-l-active/</id>
-    <published>2020-09-21</published>
-    <updated>2020-09-21</updated>
-    <summary>L'autophagie — le systeme de recyclage cellulaire recompense par le Nobel 2016 — elimine les composants endommages de nos cellules. Le jeune, l'exercice et la restriction calorique l'activent, mais les preuves humaines sont plus nuancees que ce que le battage mediatique suggere.</summary>
-  </entry>
-  <entry>
-    <title>Ou acheter ses complements : guide des boutiques fiables en France et en ligne</title>
-    <link href="https://bien-vivre-longtemps.com/boutiques/ou-acheter-ses-complements-guide-des-boutiques-fiables-en-france-et-en-ligne/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/boutiques/ou-acheter-ses-complements-guide-des-boutiques-fiables-en-france-et-en-ligne/</id>
-    <published>2020-09-14</published>
-    <updated>2020-09-14</updated>
-    <summary>Le marche des complements alimentaires est un Far West. Nutripure, UNAE, Nutrimuscle en France, iHerb en ligne : voici les boutiques fiables, les certifications a verifier (GMP, NSF, USP) et les pieges a eviter pour acheter malin.</summary>
-  </entry>
-  <entry>
-    <title>Épigénétique : ton ADN n'est pas ton destin</title>
-    <link href="https://bien-vivre-longtemps.com/science/epigenetique-ton-adn-n-est-pas-ton-destin/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/science/epigenetique-ton-adn-n-est-pas-ton-destin/</id>
-    <published>2020-09-07</published>
-    <updated>2020-09-07</updated>
-    <summary>L'épigénétique revele que nos genes ne dictent pas notre destin. La methylation de l'ADN, influencee par l'alimentation, l'exercice et le stress, modifie l'expression genique tout au long de la vie. Les etudes sur les jumeaux identiques le prouvent de facon spectaculaire.</summary>
   </entry>
 </feed>
