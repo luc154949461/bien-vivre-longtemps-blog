@@ -4,11 +4,43 @@
   <link href="https://bien-vivre-longtemps.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://bien-vivre-longtemps.com/" rel="alternate" type="text/html"/>
   <id>https://bien-vivre-longtemps.com/</id>
-  <updated>2021-11-18</updated>
+  <updated>2021-12-06</updated>
   <author>
     <name>Bien Vivre Longtemps</name>
   </author>
   <subtitle>Le guide pratique pour vivre plus longtemps en meilleure sante : nutrition, sport, science, routines et sagesse du monde entier</subtitle>
+  <entry>
+    <title>Les omega-3 EPA/DHA : du cerveau au coeur, ce que disent vraiment les etudes</title>
+    <link href="https://bien-vivre-longtemps.com/science/les-omega-3-epa-dha-du-cerveau-au-coeur-ce-que-disent-vraiment-les-etudes/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/science/les-omega-3-epa-dha-du-cerveau-au-coeur-ce-que-disent-vraiment-les-etudes/</id>
+    <published>2021-12-06</published>
+    <updated>2021-12-06</updated>
+    <summary>L'EPA eteint l'inflammation, le DHA construit les membranes du cerveau. La Framingham Heart Study associe un index omega-3 eleve (&gt;6,8 %) a 34 % de mortalite en moins. REDUCE-IT montre moins 25 % d'evenements cardiovasculaires avec 4 g/jour d'EPA. Dose recommandee : 2 g/jour, index cible superieur a 8 %.</summary>
+  </entry>
+  <entry>
+    <title>Le magnesium : le mineral oublie qui regule 300 reactions enzymatiques</title>
+    <link href="https://bien-vivre-longtemps.com/complements/le-magnesium-le-mineral-oublie-qui-regule-300-reactions-enzymatiques/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/complements/le-magnesium-le-mineral-oublie-qui-regule-300-reactions-enzymatiques/</id>
+    <published>2021-11-30</published>
+    <updated>2021-11-30</updated>
+    <summary>Cofacteur dans plus de 300 reactions enzymatiques, le magnesium regule l'energie, le sommeil et les muscles. 70 % des Francais sont en deficit. Le bisglycinate est absorbe a 64 %, contre 4-8 % pour l'oxyde. Sources alimentaires : chocolat noir, amandes, graines de courge, epinards. Dosage : 300-400 mg/jour.</summary>
+  </entry>
+  <entry>
+    <title>La vitamine D : l'hormone du soleil que 80 % des Francais n'ont pas en quantite suffisante</title>
+    <link href="https://bien-vivre-longtemps.com/science/la-vitamine-d-l-hormone-du-soleil-que-80-des-francais-n-ont-pas-en-quantite-suffisante/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/science/la-vitamine-d-l-hormone-du-soleil-que-80-des-francais-n-ont-pas-en-quantite-suffisante/</id>
+    <published>2021-11-26</published>
+    <updated>2021-11-26</updated>
+    <summary>Le recepteur de la vitamine D (VDR) est present dans la plupart des cellules du corps. 70 a 80 % des Francais sont en insuffisance. L'etude VITAL montre une reduction de 25 % de la mortalite par cancer avec 2 000 UI/jour. Taux optimal : 40-60 ng/mL, D3 superieure a D2, et K2 comme cofacteur indispensable.</summary>
+  </entry>
+  <entry>
+    <title>Microbiome : nourrir ses bacteries pour vivre plus longtemps</title>
+    <link href="https://bien-vivre-longtemps.com/nutrition/microbiome-nourrir-ses-bacteries-pour-vivre-plus-longtemps/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/nutrition/microbiome-nourrir-ses-bacteries-pour-vivre-plus-longtemps/</id>
+    <published>2021-11-22</published>
+    <updated>2021-11-22</updated>
+    <summary>70 a 80 % de tes cellules immunitaires vivent dans ton intestin. L'American Gut Project montre que manger 30+ plantes par semaine diversifie significativement le microbiote. Kimchi, kefir, kombucha et fibres prebiotiques nourrissent tes bonnes bacteries, tandis que les antibiotiques, les ultra-transformes et le stress les detruisent.</summary>
+  </entry>
   <entry>
     <title>Alcool et longevite : le paradoxe francais reexamine a la lumiere des nouvelles etudes</title>
     <link href="https://bien-vivre-longtemps.com/nutrition/alcool-et-longevite-le-paradoxe-francais-reexamine-a-la-lumiere-des-nouvelles-etudes/" rel="alternate" type="text/html"/>
@@ -136,37 +168,5 @@
     <published>2021-01-18</published>
     <updated>2021-01-18</updated>
     <summary>Les 10 000 pas sont un mythe marketing né en 1965 au Japon. La méta-analyse Banach (2023) sur 226 889 personnes montre que les bénéfices commencent dès 3 967 pas/jour. À dépense égale, la marche fait aussi bien que la course pour la longévité — sans les blessures.</summary>
-  </entry>
-  <entry>
-    <title>Nouvel An 2021 : résolutions santé réalistes — comment formuler des objectifs qui tiennent</title>
-    <link href="https://bien-vivre-longtemps.com/saisonnier/nouvel-an-2021-resolutions-sante-realistes-comment-formuler-des-objectifs-qui-tiennent/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/saisonnier/nouvel-an-2021-resolutions-sante-realistes-comment-formuler-des-objectifs-qui-tiennent/</id>
-    <published>2021-01-04</published>
-    <updated>2021-01-04</updated>
-    <summary>80 % des résolutions de Nouvel An sont abandonnées avant le 19 janvier. La psychologie comportementale explique pourquoi — et offre des solutions concrètes : objectifs SMART, intentions d'implémentation de Gollwitzer (si... alors), micro-habitudes et design environnemental.</summary>
-  </entry>
-  <entry>
-    <title>Bilan 2020 : ce que la science nous a appris sur la longévité cette année</title>
-    <link href="https://bien-vivre-longtemps.com/saisonnier/bilan-2020-ce-que-la-science-nous-a-appris-sur-la-longevite-cette-annee/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/saisonnier/bilan-2020-ce-que-la-science-nous-a-appris-sur-la-longevite-cette-annee/</id>
-    <published>2020-12-28</published>
-    <updated>2020-12-28</updated>
-    <summary>Senolytiques, NMN, jeune intermittent, impact du COVID sur le vieillissement : les quatre avancees scientifiques majeures de 2020 en matiere de longévité, avec les donnees reelles des essais cliniques et leurs limites.</summary>
-  </entry>
-  <entry>
-    <title>Noel 2020 : cadeaux santé et bien-etre, et comment manger sans culpabiliser</title>
-    <link href="https://bien-vivre-longtemps.com/saisonnier/noel-2020-cadeaux-sante-et-bien-etre-et-comment-manger-sans-culpabiliser/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/saisonnier/noel-2020-cadeaux-sante-et-bien-etre-et-comment-manger-sans-culpabiliser/</id>
-    <published>2020-11-25</published>
-    <updated>2020-11-25</updated>
-    <summary>Quoi offrir pour Noel quand on veut encourager la santé (tapis de yoga, applis de meditation, vitamine D) et comment aborder les repas de fête sereinement : les donnees sur les cheat meals, l'impact reel d'un reveillon et la sortie du cycle culpabilite-restriction.</summary>
-  </entry>
-  <entry>
-    <title>Automne 2020 : renforcer son immunite naturellement avant l'hiver</title>
-    <link href="https://bien-vivre-longtemps.com/saisonnier/automne-2020-renforcer-son-immunite-naturellement-avant-l-hiver/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/saisonnier/automne-2020-renforcer-son-immunite-naturellement-avant-l-hiver/</id>
-    <published>2020-10-05</published>
-    <updated>2020-10-05</updated>
-    <summary>Vitamine D, zinc, sommeil, exercice, microbiome : les interventions qui ont vraiment des preuves pour renforcer ton immunite avant l'hiver. Et celles qui n'en ont pas, malgre le marketing.</summary>
   </entry>
 </feed>
