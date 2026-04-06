@@ -4,11 +4,43 @@
   <link href="https://bien-vivre-longtemps.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://bien-vivre-longtemps.com/" rel="alternate" type="text/html"/>
   <id>https://bien-vivre-longtemps.com/</id>
-  <updated>2022-06-27</updated>
+  <updated>2022-12-26</updated>
   <author>
     <name>Bien Vivre Longtemps</name>
   </author>
   <subtitle>Le guide pratique pour vivre plus longtemps en meilleure sante : nutrition, sport, science, routines et sagesse du monde entier</subtitle>
+  <entry>
+    <title>Ralentir : l'art de ne rien faire — pourquoi les centenaires ne sont jamais pressés</title>
+    <link href="https://bien-vivre-longtemps.com/routines/ralentir-l-art-de-ne-rien-faire-pourquoi-les-centenaires-ne-sont-jamais-presses/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/routines/ralentir-l-art-de-ne-rien-faire-pourquoi-les-centenaires-ne-sont-jamais-presses/</id>
+    <published>2022-12-26</published>
+    <updated>2022-12-26</updated>
+    <summary>Le stress chronique accélère le vieillissement en raccourcissant les télomères et en augmentant l'inflammation. Les centenaires des Zones Bleues pratiquent le « Downshift » — des rituels quotidiens de ralentissement. De l'ikigai d'Okinawa au ma japonais en passant par le hygge danois, découvre pourquoi la lenteur est un facteur de longévité.</summary>
+  </entry>
+  <entry>
+    <title>Les rituels sociaux qui prolongent la vie — pourquoi la solitude tue plus que le tabac</title>
+    <link href="https://bien-vivre-longtemps.com/routines/les-rituels-sociaux-qui-prolongent-la-vie-pourquoi-la-solitude-tue-plus-que-le-tabac/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/routines/les-rituels-sociaux-qui-prolongent-la-vie-pourquoi-la-solitude-tue-plus-que-le-tabac/</id>
+    <published>2022-12-20</published>
+    <updated>2022-12-20</updated>
+    <summary>Une méta-analyse portant sur 3,4 millions de participants montre que l'isolement social augmente le risque de mortalité prématurée de 29 %, un effet comparable à 15 cigarettes par jour. Des moai d'Okinawa aux familles sardes, découvre comment les centenaires des Zones Bleues utilisent le lien social comme premier rempart contre la mort.</summary>
+  </entry>
+  <entry>
+    <title>La sieste scientifique — 26 minutes pour vivre plus longtemps</title>
+    <link href="https://bien-vivre-longtemps.com/routines/la-sieste-scientifique-26-minutes-pour-vivre-plus-longtemps/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/routines/la-sieste-scientifique-26-minutes-pour-vivre-plus-longtemps/</id>
+    <published>2022-12-16</published>
+    <updated>2022-12-16</updated>
+    <summary>L'étude NASA de 1995 a montré qu'une sieste de 26 minutes améliore la vigilance de 54 % et les performances de 34 %. Une cohorte grecque de 23 681 adultes révèle une réduction de 37 % de la mortalité coronarienne chez les siesteurs réguliers. Durée idéale, fenêtre optimale, nappuccino et contre-indications : tout ce que la science dit sur la sieste.</summary>
+  </entry>
+  <entry>
+    <title>Dormir comme un centenaire — ce que les Zones Bleues nous apprennent sur le sommeil</title>
+    <link href="https://bien-vivre-longtemps.com/routines/dormir-comme-un-centenaire-ce-que-les-zones-bleues-nous-apprennent-sur-le-sommeil/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/routines/dormir-comme-un-centenaire-ce-que-les-zones-bleues-nous-apprennent-sur-le-sommeil/</id>
+    <published>2022-12-12</published>
+    <updated>2022-12-12</updated>
+    <summary>Les centenaires des Zones Bleues — Ikaria, Nicoya, Sardaigne — dorment sept à neuf heures par nuit, font la sieste et suivent le rythme naturel du soleil. Découvre ce que la science et les habitudes de ces populations exceptionnelles nous apprennent sur le sommeil et la longévité.</summary>
+  </entry>
   <entry>
     <title>Noël 2022 : gérer le stress des fêtes — comment profiter sans s'épuiser</title>
     <link href="https://bien-vivre-longtemps.com/saisonnier/noel-2022-gerer-le-stress-des-fetes-comment-profiter-sans-s-epuiser/" rel="alternate" type="text/html"/>
@@ -136,37 +168,5 @@
     <published>2021-11-26</published>
     <updated>2021-11-26</updated>
     <summary>Le recepteur de la vitamine D (VDR) est present dans la plupart des cellules du corps. 70 a 80 % des Francais sont en insuffisance. L'etude VITAL montre une reduction de 25 % de la mortalite par cancer avec 2 000 UI/jour. Taux optimal : 40-60 ng/mL, D3 superieure a D2, et K2 comme cofacteur indispensable.</summary>
-  </entry>
-  <entry>
-    <title>Microbiome : nourrir ses bacteries pour vivre plus longtemps</title>
-    <link href="https://bien-vivre-longtemps.com/nutrition/microbiome-nourrir-ses-bacteries-pour-vivre-plus-longtemps/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/nutrition/microbiome-nourrir-ses-bacteries-pour-vivre-plus-longtemps/</id>
-    <published>2021-11-22</published>
-    <updated>2021-11-22</updated>
-    <summary>70 a 80 % de tes cellules immunitaires vivent dans ton intestin. L'American Gut Project montre que manger 30+ plantes par semaine diversifie significativement le microbiote. Kimchi, kefir, kombucha et fibres prebiotiques nourrissent tes bonnes bacteries, tandis que les antibiotiques, les ultra-transformes et le stress les detruisent.</summary>
-  </entry>
-  <entry>
-    <title>Alcool et longevite : le paradoxe francais reexamine a la lumiere des nouvelles etudes</title>
-    <link href="https://bien-vivre-longtemps.com/nutrition/alcool-et-longevite-le-paradoxe-francais-reexamine-a-la-lumiere-des-nouvelles-etudes/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/nutrition/alcool-et-longevite-le-paradoxe-francais-reexamine-a-la-lumiere-des-nouvelles-etudes/</id>
-    <published>2021-11-18</published>
-    <updated>2021-11-18</updated>
-    <summary>Le « paradoxe francais » de 1992 promettait que le vin rouge protegeait le coeur. Trente ans plus tard, une meta-analyse du Lancet portant sur 600 000 personnes affirme que le niveau le plus sur d'alcool est zero. Entre le mythe du resveratrol, le biais du « sick quitter » et la sagesse des Zones Bleues, ou se trouve la verite ? Regard lucide et sans dogmatisme sur l'alcool et la longevite.</summary>
-  </entry>
-  <entry>
-    <title>Les super-aliments : mythe marketing ou réalité scientifique ?</title>
-    <link href="https://bien-vivre-longtemps.com/nutrition/les-super-aliments-mythe-marketing-ou-realite-scientifique/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/nutrition/les-super-aliments-mythe-marketing-ou-realite-scientifique/</id>
-    <published>2021-11-15</published>
-    <updated>2021-11-15</updated>
-    <summary>Açaï, goji, spiruline, chia, kale, curcuma — j'ai tout testé pendant six mois, bilans sanguins à l'appui. Entre le retrait du score ORAC par l'USDA en 2012 et les amendes de la FTC, voici ce que la science dit vraiment sur les super-aliments.</summary>
-  </entry>
-  <entry>
-    <title>Le jeune prolonge et le FMD de Valter Longo : promesses et limites</title>
-    <link href="https://bien-vivre-longtemps.com/nutrition/le-jeune-prolonge-et-le-fmd-de-valter-longo-promesses-et-limites/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/nutrition/le-jeune-prolonge-et-le-fmd-de-valter-longo-promesses-et-limites/</id>
-    <published>2021-11-11</published>
-    <updated>2021-11-11</updated>
-    <summary>Le regime FMD de Valter Longo promet de ralentir le vieillissement grace a un jeune de 5 jours a 800 kcal. Les essais cliniques montrent des resultats encourageants sur l'IGF-1 et le profil lipidique, mais la majorite des donnees spectaculaires provient de modeles animaux. Tour d'horizon honnete.</summary>
   </entry>
 </feed>
