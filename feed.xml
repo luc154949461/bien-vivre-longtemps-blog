@@ -4,11 +4,43 @@
   <link href="https://bien-vivre-longtemps.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://bien-vivre-longtemps.com/" rel="alternate" type="text/html"/>
   <id>https://bien-vivre-longtemps.com/</id>
-  <updated>2024-06-21</updated>
+  <updated>2024-09-09</updated>
   <author>
     <name>Bien Vivre Longtemps</name>
   </author>
   <subtitle>Le guide pratique pour vivre plus longtemps en meilleure sante : nutrition, sport, science, routines et sagesse du monde entier</subtitle>
+  <entry>
+    <title>Été 2024 : chaleur, hydratation et le guide définitif de l'adaptation estivale</title>
+    <link href="https://bien-vivre-longtemps.com/saisonnier/ete-2024-chaleur-hydratation-et-le-guide-definitif-de-l-adaptation-estivale/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/saisonnier/ete-2024-chaleur-hydratation-et-le-guide-definitif-de-l-adaptation-estivale/</id>
+    <published>2024-09-09</published>
+    <updated>2024-09-09</updated>
+    <summary>L'été 2024 a causé plus de 3 700 décès liés à la chaleur en France. Pour que l'été 2026 se passe mieux, voici le guide complet de Clara : hydratation, alimentation thermorégulatrice, architecture du sommeil en canicule, exercice progressif et solidarité intergénérationnelle. Un protocole concret, vérifié, et vraiment utile.</summary>
+  </entry>
+  <entry>
+    <title>Printemps 2024 : mouvement en nature — la prescription médicale de plein air</title>
+    <link href="https://bien-vivre-longtemps.com/saisonnier/printemps-2024-mouvement-en-nature-la-prescription-medicale-de-plein-air/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/saisonnier/printemps-2024-mouvement-en-nature-la-prescription-medicale-de-plein-air/</id>
+    <published>2024-09-05</published>
+    <updated>2024-09-05</updated>
+    <summary>De plus en plus de médecins prescrivent officiellement du temps en nature. Le shinrin-yoku — les bains de forêt japonais — réduit le cortisol de 12 à 15 % comparé à l'exercice en salle. Ce printemps 2024, un programme de 6 semaines pour (re)connecter mouvement et nature, du débutant au confirmé.</summary>
+  </entry>
+  <entry>
+    <title>Résolutions 2024 : l'année de la déconnexion consciente</title>
+    <link href="https://bien-vivre-longtemps.com/saisonnier/resolutions-2024-l-annee-de-la-deconnexion-consciente/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/saisonnier/resolutions-2024-l-annee-de-la-deconnexion-consciente/</id>
+    <published>2024-09-02</published>
+    <updated>2024-09-02</updated>
+    <summary>63 % de la Gen Z adopte des habitudes sans écran pour sa santé mentale. Une étude JAMA 2025 confirme qu'une seule semaine de détox des réseaux sociaux réduit l'anxiété de 16 % et la dépression de 25 %. Pas un challenge temporaire : un mode de vie à construire, semaine après semaine.</summary>
+  </entry>
+  <entry>
+    <title>Alimentation anti-inflammatoire : le régime qui combat le vieillissement silencieux</title>
+    <link href="https://bien-vivre-longtemps.com/dossier/alimentation-anti-inflammatoire-le-regime-qui-combat-le-vieillissement-silencieux/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/dossier/alimentation-anti-inflammatoire-le-regime-qui-combat-le-vieillissement-silencieux/</id>
+    <published>2024-08-30</published>
+    <updated>2024-08-30</updated>
+    <summary>L'inflammaging — cette inflammation chronique silencieuse décrite par le professeur Claudio Franceschi — est le moteur principal du vieillissement accéléré et des maladies chroniques. Ton assiette est la télécommande la plus puissante pour l'éteindre. Guide pratique des aliments qui font la différence, des marqueurs à surveiller, et du régime méditerranéen validé par la science.</summary>
+  </entry>
   <entry>
     <title>Le sommeil profond : pourquoi il est la clé de tout et comment l'optimiser</title>
     <link href="https://bien-vivre-longtemps.com/dossier/le-sommeil-profond-pourquoi-il-est-la-cle-de-tout-et-comment-l-optimiser/" rel="alternate" type="text/html"/>
@@ -136,37 +168,5 @@
     <published>2023-10-23</published>
     <updated>2023-04-24</updated>
     <summary>Le cold plunge booste la noradrénaline de 530 % et la dopamine de 250 %, et une méta-analyse 2025 de 3 177 personnes confirme ses effets sur le stress et le sommeil. Mais attention : plonger juste après la muscu bloque la croissance musculaire, et les risques cardiaques sont réels.</summary>
-  </entry>
-  <entry>
-    <title>Perturbateurs endocriniens et PFAS : les polluants éternels qui menacent notre santé</title>
-    <link href="https://bien-vivre-longtemps.com/dossier/perturbateurs-endocriniens-et-pfas-les-polluants-eternels-qui-menacent-notre-sante/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/dossier/perturbateurs-endocriniens-et-pfas-les-polluants-eternels-qui-menacent-notre-sante/</id>
-    <published>2023-10-23</published>
-    <updated>2023-04-24</updated>
-    <summary>Les PFAS, ces « polluants éternels » présents dans nos poêles, emballages et eau du robinet, perturbent nos hormones, notre fertilité et augmentent le risque de cancers. Renée fait le point sur les effets documentés et les gestes concrets pour réduire son exposition au quotidien.</summary>
-  </entry>
-  <entry>
-    <title>Longévité et IA : AlphaFold, drug discovery et la médecine du futur</title>
-    <link href="https://bien-vivre-longtemps.com/dossier/longevite-et-ia-alphafold-drug-discovery-et-la-medecine-du-futur/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/dossier/longevite-et-ia-alphafold-drug-discovery-et-la-medecine-du-futur/</id>
-    <published>2023-10-23</published>
-    <updated>2023-04-24</updated>
-    <summary>Le Nobel de Chimie 2024 a récompensé AlphaFold, l'IA de DeepMind qui prédit la structure des protéines. Avec Isomorphic Labs (3 milliards de partenariats), AlphaFold 3 et Boltz-2, la découverte de médicaments de longévité entre dans une nouvelle ère.</summary>
-  </entry>
-  <entry>
-    <title>Résolutions 2024 : l'année de la longévité consciente</title>
-    <link href="https://bien-vivre-longtemps.com/saisonnier/resolutions-2024-l-annee-de-la-longevite-consciente/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/saisonnier/resolutions-2024-l-annee-de-la-longevite-consciente/</id>
-    <published>2023-07-31</published>
-    <updated>2023-01-30</updated>
-    <summary>En 2024, remplacer la résolution « perdre du poids » par l'objectif de healthspan — vivre plus longtemps en bonne santé. Renée M. présente les 4 piliers scientifiquement validés : régime méditerranéen, renforcement musculaire 2×/semaine, gestion du stress chronique, et les décisions quotidiennes qui s'additionnent sur des décennies.</summary>
-  </entry>
-  <entry>
-    <title>Noël 2023 : gérer les excès des fêtes sans culpabilité — le guide équilibré</title>
-    <link href="https://bien-vivre-longtemps.com/saisonnier/noel-2023-gerer-les-exces-des-fetes-sans-culpabilite-le-guide-equilibre/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/saisonnier/noel-2023-gerer-les-exces-des-fetes-sans-culpabilite-le-guide-equilibre/</id>
-    <published>2023-07-31</published>
-    <updated>2023-01-30</updated>
-    <summary>La culpabilité des fêtes est souvent plus dommageable que les excès eux-mêmes. Camille L. propose une approche bienveillante : profiter pleinement du réveillon, récupérer intelligemment en 3 jours, et aborder 2024 sans régime punitif. La science valide cette approche.</summary>
   </entry>
 </feed>
