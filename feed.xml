@@ -4,11 +4,19 @@
   <link href="https://bien-vivre-longtemps.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://bien-vivre-longtemps.com/" rel="alternate" type="text/html"/>
   <id>https://bien-vivre-longtemps.com/</id>
-  <updated>2026-04-11</updated>
+  <updated>2026-04-14</updated>
   <author>
     <name>Bien Vivre Longtemps</name>
   </author>
   <subtitle>Le guide pratique pour vivre plus longtemps en meilleure sante : nutrition, sport, science, routines et sagesse du monde entier</subtitle>
+  <entry>
+    <title>Sénomorphiques vs sénolytiques : la nouvelle frontière des traitements anti-âge</title>
+    <link href="https://bien-vivre-longtemps.com/science/senomorphiques-vs-senolytiques-la-nouvelle-frontiere-des-traitements-anti-age/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/science/senomorphiques-vs-senolytiques-la-nouvelle-frontiere-des-traitements-anti-age/</id>
+    <published>2026-04-14</published>
+    <updated>2026-04-14</updated>
+    <summary>Sénolytiques ou sénomorphiques : deux stratégies radicalement différentes pour traiter les cellules zombies qui accélèrent notre vieillissement. On fait le point sur les essais cliniques en cours (Unity, Oisín, TAME), les molécules candidates comme le dasatinib ou la quercétine, et ce que la science de 2025-2026 prouve réellement chez l'humain.</summary>
+  </entry>
   <entry>
     <title>Les saignées : entre mythe millénaire et médecine moderne — ce que la science en dit vraiment</title>
     <link href="https://bien-vivre-longtemps.com/sante/les-saignees-entre-mythe-millenaire-et-medecine-moderne-ce-que-la-science-en-dit-vraiment/" rel="alternate" type="text/html"/>
@@ -160,13 +168,5 @@
     <published>2024-01-22</published>
     <updated>2024-01-22</updated>
     <summary>En 2023, la science du jeûne intermittent arrive à maturité. 16:8, 5:2, OMAD : les protocoles décryptés avec les vraies données, les bénéfices prouvés (insuline, inflammation, autophagie) et la limite fondamentale que personne ne veut entendre.</summary>
-  </entry>
-  <entry>
-    <title>Noël 2024 : bien vivre les fêtes et Top 10 des articles de l'année</title>
-    <link href="https://bien-vivre-longtemps.com/saisonnier/noel-2024-bien-vivre-les-fetes-et-top-10-des-articles-de-l-annee/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/saisonnier/noel-2024-bien-vivre-les-fetes-et-top-10-des-articles-de-l-annee/</id>
-    <published>2023-10-30</published>
-    <updated>2023-10-30</updated>
-    <summary>Comment traverser les fêtes de Noël 2024 sans sacrifier sa santé — ni son plaisir. Renée M. partage ses stratégies éprouvées pour gérer le stress logistique, préserver le sommeil, bouger en hiver et profiter pleinement des liens sociaux. En prime : le Top 10 des articles de Bien Vivre Longtemps en 2024, sélectionnés par nos lecteurs.</summary>
   </entry>
 </feed>
