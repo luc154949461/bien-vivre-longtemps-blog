@@ -38,7 +38,7 @@
 </head>
 <body>
     <header>
-        <div class="header-inner">
+        <div class="header-content">
             <a href="/" class="logo">Bien Vivre Longtemps</a>
         </div>
         <nav>
@@ -65,15 +65,15 @@
                 <li><a href="/zones-bleues/">Zones Bleues</a></li>
                 
                 <li><a href="/series/">Series</a></li>
-                <li><a href="/recherche/" class="search-link" title="Rechercher">Recherche</a></li>
-                <li><a href="/feed.xml" class="rss-link" title="Flux RSS">RSS</a></li>
+                <li><a href="/recherche/" class="search-btn" title="Rechercher">Recherche</a></li>
+                <li><a href="/feed.xml" class="rss-btn" title="Flux RSS">RSS</a></li>
             </ul>
         </nav>
     </header>
 
     <main>
         
-        <nav class="breadcrumb" aria-label="Fil d'Ariane">
+        <nav class="parcours" aria-label="Fil d'Ariane">
             
             
             <a href="/">Bien Vivre Longtemps</a>
@@ -98,9 +98,9 @@
 
     
 
-    <header class="article-header">
-        <div class="article-meta">
-            <a href="/sante/" class="article-category">Sante</a>
+    <header class="sante-header">
+        <div class="sante-meta">
+            <a href="/sante/" class="sante-category">Sante</a>
             
             <time datetime="2026-01-19">19 janvier 2026</time>
             
@@ -109,7 +109,7 @@
         
     </header>
 
-    <div class="article-body prose">
+    <div class="sante-body texte-long">
         <p>Tu te souviens de ce moment où tu cherches tes clés pendant dix minutes pour réaliser qu&rsquo;elles sont dans ta main ? On a tous vécu ça. Et parfois, une petite voix intérieure chuchote : <em>et si c&rsquo;était le début de quelque chose ?</em> Je veux qu&rsquo;on parle de ça aujourd&rsquo;hui — franchement, avec les vraies données, sans catastrophisme, mais sans tabou non plus.</p>
 <p>Parce que la bonne nouvelle — et elle est vraiment bonne — c&rsquo;est que la science a fait des bonds énormes ces dernières années. Et si je te disais que <strong>40% des cas d&rsquo;Alzheimer pourraient être évités ou sérieusement retardés</strong> ? Ce n&rsquo;est pas du wishful thinking : c&rsquo;est ce que dit la <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01534-5/fulltext">Commission Lancet 2024 sur la démence</a>, l&rsquo;une des analyses les plus complètes jamais publiées sur le sujet.</p>
 <p><picture><source media="(max-width: 768px)" srcset="/static/images/alzheimer-prevention-cerveau-neurones-400w.webp" type="image/webp"><source srcset="/static/images/alzheimer-prevention-cerveau-neurones-800w.webp 800w, /static/images/alzheimer-prevention-cerveau-neurones.webp 2000w" sizes="300px" type="image/webp"><img loading="eager" fetchpriority="high" alt="Cerveau humain et neurones, illustration scientifique" src="/static/images/alzheimer-prevention-cerveau-neurones.jpg" /></picture></p>
@@ -220,29 +220,29 @@
 
 
 
-<aside class="related-articles">
-    <h2 class="section-title">Articles connexes</h2>
-    <div class="card-grid">
+<aside class="suggestions">
+    <h2 class="module-titre">Articles connexes</h2>
+    <div class="entry-grid">
         
-        <article class="card">
-            <picture><source media="(max-width: 768px)" srcset="/static/images/saignee-historique-medievale-400w.webp" type="image/webp"><source srcset="/static/images/saignee-historique-medievale-800w.webp 800w, /static/images/saignee-historique-medievale.webp 2000w" sizes="300px" type="image/webp"><img class="card-img" src="/static/images/saignee-historique-medievale.jpg" alt="" loading="eager" fetchpriority="high"></picture>
-            <div class="card-body">
+        <article class="entry">
+            <picture><source media="(max-width: 768px)" srcset="/static/images/saignee-historique-medievale-400w.webp" type="image/webp"><source srcset="/static/images/saignee-historique-medievale-800w.webp 800w, /static/images/saignee-historique-medievale.webp 2000w" sizes="300px" type="image/webp"><img class="entry-img" src="/static/images/saignee-historique-medievale.jpg" alt="" loading="eager" fetchpriority="high"></picture>
+            <div class="entry-body">
                 <h3><a href="/sante/les-saignees-entre-mythe-millenaire-et-medecine-moderne-ce-que-la-science-en-dit-vraiment/">Les saignées : entre mythe millénaire et médecine moderne — ce que la science en dit vraiment</a></h3>
                 <p>De l&#39;Égypte des pharaons aux blocs de microchirurgie modernes, la saignée a traversé quatre millénaires d&#39;histoire médicale — tantôt panacée meurtrière, tantôt traitement de référence rigoureusement validé. Henri D. retrace ce voyage fascinant, de la mort de George Washington aux indications actuelles de la phlébotomie dans l&#39;hémochromatose et la polycythémie vera.</p>
             </div>
         </article>
         
-        <article class="card">
-            <picture><source media="(max-width: 768px)" srcset="/static/images/genetic-test-dna-dtc-kit-400w.webp" type="image/webp"><source srcset="/static/images/genetic-test-dna-dtc-kit-800w.webp 800w, /static/images/genetic-test-dna-dtc-kit.webp 2000w" sizes="300px" type="image/webp"><img class="card-img" src="/static/images/genetic-test-dna-dtc-kit.jpg" alt="" loading="eager" fetchpriority="high"></picture>
-            <div class="card-body">
+        <article class="entry">
+            <picture><source media="(max-width: 768px)" srcset="/static/images/genetic-test-dna-dtc-kit-400w.webp" type="image/webp"><source srcset="/static/images/genetic-test-dna-dtc-kit-800w.webp 800w, /static/images/genetic-test-dna-dtc-kit.webp 2000w" sizes="300px" type="image/webp"><img class="entry-img" src="/static/images/genetic-test-dna-dtc-kit.jpg" alt="" loading="eager" fetchpriority="high"></picture>
+            <div class="entry-body">
                 <h3><a href="/sante/tests-genetiques-dtc-23andme-et-compagnie-utile-ou-anxiogene/">Tests genetiques DTC (23andMe et compagnie) : utile ou anxiogene ?</a></h3>
                 <p>Les tests génétiques DTC (23andMe, AncestryDNA) séduisent des millions de personnes, mais leur utilité médicale réelle est très limitée pour les maladies courantes. En France, ils sont de surcroît illégaux. Un décryptage nuancé entre promesse technologique et réalité médicale, avec ce que valent vraiment les vrais tests génétiques — ceux prescrits dans un cadre médical.</p>
             </div>
         </article>
         
-        <article class="card">
-            <picture><source media="(max-width: 768px)" srcset="/static/images/supplements-vitamind-bone-health-400w.webp" type="image/webp"><source srcset="/static/images/supplements-vitamind-bone-health-800w.webp 800w, /static/images/supplements-vitamind-bone-health.webp 2000w" sizes="300px" type="image/webp"><img class="card-img" src="/static/images/supplements-vitamind-bone-health.jpg" alt="" loading="lazy"></picture>
-            <div class="card-body">
+        <article class="entry">
+            <picture><source media="(max-width: 768px)" srcset="/static/images/supplements-vitamind-bone-health-400w.webp" type="image/webp"><source srcset="/static/images/supplements-vitamind-bone-health-800w.webp 800w, /static/images/supplements-vitamind-bone-health.webp 2000w" sizes="300px" type="image/webp"><img class="entry-img" src="/static/images/supplements-vitamind-bone-health.jpg" alt="" loading="lazy"></picture>
+            <div class="entry-body">
                 <h3><a href="/sante/vitamine-d-et-marqueurs-osseux-le-bilan-qui-eclaire-la-sante-de-vos-os/">Vitamine D et marqueurs osseux — le bilan qui eclaire la sante de vos os</a></h3>
                 <p>La vitamine D est la star des bilans sanguins, mais le bilan phosphocalcique complet — calcémie, PTH, calciurie et marqueurs du remodelage osseux — raconte une histoire bien plus riche sur la santé de vos os. En France, 80 % de la population est en insuffisance à la fin de l&#39;hiver : voici comment interpréter vos résultats et agir.</p>
             </div>
@@ -255,13 +255,13 @@
     </main>
 
     <footer>
-        <div class="footer-inner">
-            <div class="footer-col">
-                <p class="footer-brand">Bien Vivre Longtemps</p>
-                <p class="footer-tagline">Le guide pratique pour vivre plus longtemps en meilleure sante : nutrition, sport, science, routines et sagesse du monde entier</p>
+        <div class="pied-inner">
+            <div class="pied-section">
+                <p class="pied-brand">Bien Vivre Longtemps</p>
+                <p class="pied-desc">Le guide pratique pour vivre plus longtemps en meilleure sante : nutrition, sport, science, routines et sagesse du monde entier</p>
             </div>
-            <div class="footer-col">
-                <p class="footer-heading">Navigation</p>
+            <div class="pied-section">
+                <p class="pied-head">Navigation</p>
                 <ul>
                     <li><a href="/">Accueil</a></li>
                     
@@ -288,8 +288,8 @@
                     <li><a href="/series/">Series</a></li>
                 </ul>
             </div>
-            <div class="footer-col">
-                <p class="footer-heading">Liens utiles</p>
+            <div class="pied-section">
+                <p class="pied-head">Liens utiles</p>
                 <ul>
                     <li><a href="/vie-privee/">Vie privée</a></li>
                     <li><a href="/sitemap.xml">Plan du site</a></li>
@@ -297,10 +297,10 @@
                 </ul>
             </div>
         </div>
-        <div class="footer-privacy">
+        <div class="pied-notice">
             <p>Ce site ne collecte aucune donnée personnelle. <a href="/vie-privee/">Politique de confidentialité</a></p>
         </div>
-        <div class="footer-bottom">
+        <div class="pied-bas">
             <p>&copy; 2020, Bien Vivre Longtemps.</p>
         </div>
     </footer>
