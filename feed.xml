@@ -4,11 +4,19 @@
   <link href="https://bien-vivre-longtemps.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://bien-vivre-longtemps.com/" rel="alternate" type="text/html"/>
   <id>https://bien-vivre-longtemps.com/</id>
-  <updated>2026-04-13</updated>
+  <updated>2026-04-14</updated>
   <author>
     <name>Bien Vivre Longtemps</name>
   </author>
   <subtitle>Le guide pratique pour vivre plus longtemps en meilleure sante : nutrition, sport, science, routines et sagesse du monde entier</subtitle>
+  <entry>
+    <title>[Série 1/3] Un spray nasal pour freiner Alzheimer ? Ce que dit la science en 2026</title>
+    <link href="https://bien-vivre-longtemps.com/science/serie-1-3-un-spray-nasal-pour-freiner-alzheimer-ce-que-dit-la-science-en-2026/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/science/serie-1-3-un-spray-nasal-pour-freiner-alzheimer-ce-que-dit-la-science-en-2026/</id>
+    <published>2026-04-14</published>
+    <updated>2026-04-14</updated>
+    <summary>Des chercheurs de la Texas A&amp;M University ont mis au point un spray nasal à base de vésicules extracellulaires dérivées de cellules souches neurales qui réduit l'inflammation cérébrale et restaure la mémoire chez des souris âgées. Une avancée préclinique spectaculaire, mais les essais humains restent à plusieurs années.</summary>
+  </entry>
   <entry>
     <title>Reprogrammation épigénétique : le premier essai humain anti-âge vient de démarrer en 2026</title>
     <link href="https://bien-vivre-longtemps.com/science/reprogrammation-epigenetique-le-premier-essai-humain-anti-age-vient-de-demarrer-en-2026/" rel="alternate" type="text/html"/>
@@ -160,13 +168,5 @@
     <published>2026-01-19</published>
     <updated>2026-01-19</updated>
     <summary>La Commission Lancet 2024 est formelle : 40% des cas d'Alzheimer pourraient être évités ou retardés en agissant sur 12 facteurs de risque modifiables. Perte auditive non traitée, isolement social, sédentarité, hypertension... On fait le point sur les vrais leviers de prévention — et on te donne une check-list concrète pour commencer dès aujourd'hui.</summary>
-  </entry>
-  <entry>
-    <title>Protéines et longévité : combien en faut-il vraiment après 50 ans ?</title>
-    <link href="https://bien-vivre-longtemps.com/nutrition/proteines-et-longevite-combien-en-faut-il-vraiment-apres-50-ans/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/nutrition/proteines-et-longevite-combien-en-faut-il-vraiment-apres-50-ans/</id>
-    <published>2026-01-12</published>
-    <updated>2026-01-12</updated>
-    <summary>Valter Longo préconise la restriction protéique, Donald Layman et Gabrielle Lyon défendent des apports élevés : qui a raison après 50 ans ? Tour d'horizon des données scientifiques sur la sarcopénie, le seuil leucine et les meilleures sources protéiques pour vieillir en force.</summary>
   </entry>
 </feed>
