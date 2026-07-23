@@ -4,11 +4,19 @@
   <link href="https://bien-vivre-longtemps.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://bien-vivre-longtemps.com/" rel="alternate" type="text/html"/>
   <id>https://bien-vivre-longtemps.com/</id>
-  <updated>2026-07-21</updated>
+  <updated>2026-07-22</updated>
   <author>
     <name>Bien Vivre Longtemps</name>
   </author>
   <subtitle>Le guide pratique pour vivre plus longtemps en meilleure sante : nutrition, sport, science, routines et sagesse du monde entier</subtitle>
+  <entry>
+    <title>L'équilibre, le biomarqueur oublié : pourquoi tenir sur un pied prédit votre espérance de vie</title>
+    <link href="https://bien-vivre-longtemps.com/sport/l-equilibre-le-biomarqueur-oublie-pourquoi-tenir-sur-un-pied-predit-votre-esperance-de-vie/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/sport/l-equilibre-le-biomarqueur-oublie-pourquoi-tenir-sur-un-pied-predit-votre-esperance-de-vie/</id>
+    <published>2026-07-22</published>
+    <updated>2026-07-22</updated>
+    <summary>En 2022, une étude brésilienne portant sur 1702 personnes a montré qu'être incapable de tenir dix secondes sur une jambe multipliait le risque de mortalité par près de deux en sept ans. Décryptage d'un test simple qui en dit long sur le vieillissement neuromusculaire — et de ce qu'il ne prouve pas.</summary>
+  </entry>
   <entry>
     <title>Été 2026 : cinq habitudes saisonnières pour choyer son microbiote quand il fait chaud</title>
     <link href="https://bien-vivre-longtemps.com/saisonnier/ete-2026-cinq-habitudes-saisonnieres-pour-choyer-son-microbiote-quand-il-fait-chaud/" rel="alternate" type="text/html"/>
@@ -160,13 +168,5 @@
     <published>2026-03-02</published>
     <updated>2026-03-02</updated>
     <summary>Vous respirez 25 000 fois par jour sans y penser — et probablement mal. La respiration buccale chronique prive vos cellules de monoxyde d'azote, dérègle le CO2 et maintient votre système nerveux en état d'alerte. La bonne nouvelle : un protocole de 21 jours suffit à rééduquer votre souffle.</summary>
-  </entry>
-  <entry>
-    <title>La variabilité de la fréquence cardiaque (VFC) comme biomarqueur de récupération et de longévité</title>
-    <link href="https://bien-vivre-longtemps.com/science/la-variabilite-de-la-frequence-cardiaque-vfc-comme-biomarqueur-de-recuperation-et-de-longevite/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/science/la-variabilite-de-la-frequence-cardiaque-vfc-comme-biomarqueur-de-recuperation-et-de-longevite/</id>
-    <published>2026-02-23</published>
-    <updated>2026-02-23</updated>
-    <summary>La variabilité de la fréquence cardiaque (VFC ou HRV) est l'un des biomarqueurs les plus puissants pour piloter ta récupération et ta santé cardiovasculaire. Une mesure quotidienne de 5 minutes au réveil te permet d'ajuster ton entraînement, de détecter la fatigue avant les symptômes, et même de prédire ta longévité à long terme.</summary>
   </entry>
 </feed>
