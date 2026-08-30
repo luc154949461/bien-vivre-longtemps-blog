@@ -4,11 +4,19 @@
   <link href="https://bien-vivre-longtemps.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://bien-vivre-longtemps.com/" rel="alternate" type="text/html"/>
   <id>https://bien-vivre-longtemps.com/</id>
-  <updated>2026-07-22</updated>
+  <updated>2026-08-28</updated>
   <author>
     <name>Bien Vivre Longtemps</name>
   </author>
   <subtitle>Le guide pratique pour vivre plus longtemps en meilleure sante : nutrition, sport, science, routines et sagesse du monde entier</subtitle>
+  <entry>
+    <title>Microbiote et longévité : pourquoi garder un intestin « jeune » après 85 ans est un mauvais signe</title>
+    <link href="https://bien-vivre-longtemps.com/science/microbiote-et-longevite-pourquoi-garder-un-intestin-jeune-apres-85-ans-est-un-mauvais-signe/" rel="alternate" type="text/html"/>
+    <id>https://bien-vivre-longtemps.com/science/microbiote-et-longevite-pourquoi-garder-un-intestin-jeune-apres-85-ans-est-un-mauvais-signe/</id>
+    <published>2026-08-28</published>
+    <updated>2026-08-28</updated>
+    <summary>La diversite bacterienne recule avec l'age, c'est entendu. Mais les grandes cohortes racontent une histoire plus retorse : chez les plus de 85 ans, garder un microbiote « jeune » double le risque de mortalite, tandis que deriver vers une signature unique protege. Enquete sur un biomarqueur mal compris.</summary>
+  </entry>
   <entry>
     <title>L'équilibre, le biomarqueur oublié : pourquoi tenir sur un pied prédit votre espérance de vie</title>
     <link href="https://bien-vivre-longtemps.com/sport/l-equilibre-le-biomarqueur-oublie-pourquoi-tenir-sur-un-pied-predit-votre-esperance-de-vie/" rel="alternate" type="text/html"/>
@@ -160,13 +168,5 @@
     <published>2026-03-09</published>
     <updated>2026-03-09</updated>
     <summary>CRISPR s'attaque désormais au vieillissement lui-même : +41 % de durée de vie chez la souris avec la thérapie TERT, doublement de la vie restante par reprogrammation épigénétique, et élimination ciblée des cellules zombies par CAR-T. État des lieux de cette révolution silencieuse, entre émerveillement et lucidité.</summary>
-  </entry>
-  <entry>
-    <title>Respiration fonctionnelle au quotidien : pourquoi votre façon de respirer vieillit vos cellules</title>
-    <link href="https://bien-vivre-longtemps.com/routines/respiration-fonctionnelle-au-quotidien-pourquoi-votre-facon-de-respirer-vieillit-vos-cellules/" rel="alternate" type="text/html"/>
-    <id>https://bien-vivre-longtemps.com/routines/respiration-fonctionnelle-au-quotidien-pourquoi-votre-facon-de-respirer-vieillit-vos-cellules/</id>
-    <published>2026-03-02</published>
-    <updated>2026-03-02</updated>
-    <summary>Vous respirez 25 000 fois par jour sans y penser — et probablement mal. La respiration buccale chronique prive vos cellules de monoxyde d'azote, dérègle le CO2 et maintient votre système nerveux en état d'alerte. La bonne nouvelle : un protocole de 21 jours suffit à rééduquer votre souffle.</summary>
   </entry>
 </feed>
